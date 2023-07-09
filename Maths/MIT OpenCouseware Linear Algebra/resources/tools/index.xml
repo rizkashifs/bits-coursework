@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tools on MIT OpenCourseWare</title>
+    <link>/resources/tools/</link>
+    <description>Recent content in Tools on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/tools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tools</title>
+      <link>/pages/tools/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/tools/data.json</guid>
+      <description>The flash animations were developed by Jean-Michel Claus (with voiceover by Gilbert Strang). We are grateful! Funding was provided by a grant from the The d&amp;rsquo;Arbeloff Fund for Excellence in MIT Education as part of The d&amp;rsquo;Arbeloff Interactive Mathematics Project (d&amp;rsquo;A I M P).
+Matrix Multiplication An interactive demo (with voiceover explanation) on Matrix Multiplication, A = LU, and PA = LU
+Eigenvalue Demonstrations The demonstrations below employ Java® applets with voice-over narration to show some Eigenvalue concepts.</description>
+    </item>
+    
+  </channel>
+</rss>

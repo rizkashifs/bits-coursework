@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Assignments on MIT OpenCourseWare</title>
+    <link>/resources/assignments/</link>
+    <description>Recent content in Assignments on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/assignments/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Assignments</title>
+      <link>/pages/assignments/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/assignments/data.json</guid>
+      <description>The problem sets make up 15% of the course grade. Problems are assigned from the required text: Strang, Gilbert. Introduction to Linear Algebra. 4th ed. Wellesley-Cambridge Press, 2009. ISBN: 9780980232714.
+ASSn # ASSIGNMENTS SOLUTIONS Problem set 1 Do problems:
+23 and 28 from section 1.2
+4 and 13 from section 1.3
+29 and 30 from section 2.1
+20 and 32 from section 2.2
+22 and 29 from section 2.3
+32 and 36 from section 2.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_06S10_pset1_s10_soln.pdf</title>
+      <link>/resources/mit18_06s10_pset1_s10_soln/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_06s10_pset1_s10_soln/data.json</guid>
+      <description>This resource contains information related to trigonometry formulas.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_06S10_pset10_s10_sol.pdf</title>
+      <link>/resources/mit18_06s10_pset10_s10_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_06s10_pset10_s10_sol/data.json</guid>
+      <description>This resource contains the information related to Jordan matrices and eigenvalues.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_06S10_pset2_s10_soln.pdf</title>
+      <link>/resources/mit18_06s10_pset2_s10_soln/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_06s10_pset2_s10_soln/data.json</guid>
+      <description>This resource contains information related to Gauss-Jordan elimination.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_06S10_pset3_s10_soln.pdf</title>
+      <link>/resources/mit18_06s10_pset3_s10_soln/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_06s10_pset3_s10_soln/data.json</guid>
+      <description>This resource contains information related to construction a matrices.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_06S10_pset4_s10_soln.pdf</title>
+      <link>/resources/mit18_06s10_pset4_s10_soln/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_06s10_pset4_s10_soln/data.json</guid>
+      <description>This resource contains information related to independent vectors.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_06S10_pset5_s10_soln.pdf</title>
+      <link>/resources/mit18_06s10_pset5_s10_soln/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_06s10_pset5_s10_soln/data.json</guid>
+      <description>This resource contains information related to Fredholm’s alternative.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_06S10_pset6_s10_soln.pdf</title>
+      <link>/resources/mit18_06s10_pset6_s10_soln/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_06s10_pset6_s10_soln/data.json</guid>
+      <description>This resource contains information related to normal equations.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_06S10_pset7_s10_soln.pdf</title>
+      <link>/resources/mit18_06s10_pset7_s10_soln/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_06s10_pset7_s10_soln/data.json</guid>
+      <description>This resource contains information related to tridiagonal matrix of order n.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_06S10_pset8_s10_soln.pdf</title>
+      <link>/resources/mit18_06s10_pset8_s10_soln/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_06s10_pset8_s10_soln/data.json</guid>
+      <description>This resource contains information related to skew-symmetric.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_06S10_pset9_s10_soln.pdf</title>
+      <link>/resources/mit18_06s10_pset9_s10_soln/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_06s10_pset9_s10_soln/data.json</guid>
+      <description>This resource contains information related to Cholesky factorization.</description>
+    </item>
+    
+  </channel>
+</rss>

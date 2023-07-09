@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lecture Videos on MIT OpenCourseWare</title>
+    <link>/resources/lecture-videos/</link>
+    <description>Recent content in Lecture Videos on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/lecture-videos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lecture 1: The geometry of linear equations</title>
+      <link>/resources/lecture-1-the-geometry-of-linear-equations/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-1-the-geometry-of-linear-equations/data.json</guid>
+      <description>A major application of linear algebra is to solving systems of linear equations. This lecture presents three ways of thinking about these systems. The &amp;ldquo;row method&amp;rdquo; focuses on the individual equations, the &amp;ldquo;column method&amp;rdquo; focuses on combining the columns, and the &amp;ldquo;matrix method&amp;rdquo; is an even more compact and powerful way of describing systems of linear equations.
+These video lectures of Professor Gilbert Strang teaching 18.06 were recorded in Fall 1999 and do not correspond precisely to the current edition of the textbook.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 10: The four fundamental subspaces</title>
+      <link>/resources/lecture-10-the-four-fundamental-subspaces/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-10-the-four-fundamental-subspaces/data.json</guid>
+      <description>For some vectors b the equation Ax = b has solutions and for others it does not. Some vectors x are solutions to the equation Ax = 0 and some are not. To understand these equations we study the column space, nullspace, row space and left nullspace of the matrix A.
+These video lectures of Professor Gilbert Strang teaching 18.06 were recorded in Fall 1999 and do not correspond precisely to the current edition of the textbook.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 11: Matrix spaces; rank 1; small world graphs</title>
+      <link>/resources/lecture-11-matrix-spaces-rank-1-small-world-graphs/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-11-matrix-spaces-rank-1-small-world-graphs/data.json</guid>
+      <description>As we learned last session, vectors don&amp;rsquo;t have to be lists of numbers. In this session we explore important new vector spaces while practicing the skills we learned in the old ones. Then we begin the application of matrices to the study of networks.
+These video lectures of Professor Gilbert Strang teaching 18.06 were recorded in Fall 1999 and do not correspond precisely to the current edition of the textbook. However, this book is still the best reference for more information on the topics covered in each lecture.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 12: Graphs, networks, incidence matrices</title>
+      <link>/resources/lecture-12-graphs-networks-incidence-matrices/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-12-graphs-networks-incidence-matrices/data.json</guid>
+      <description>This session explores the linear algebra of electrical networks and the Internet, and sheds light on important results in graph theory.
+These video lectures of Professor Gilbert Strang teaching 18.06 were recorded in Fall 1999 and do not correspond precisely to the current edition of the textbook. However, this book is still the best reference for more information on the topics covered in each lecture.
+Strang, Gilbert. Introduction to Linear Algebra.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 13: Quiz 1 review</title>
+      <link>/resources/lecture-13-quiz-1-review/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-13-quiz-1-review/data.json</guid>
+      <description>By approaching what we&amp;rsquo;ve learned from new directions, the questions in this exam review session test the depth of your understanding. This unit reached the key ideas of subspaces—a higher level of linear algebra.
+These video lectures of Professor Gilbert Strang teaching 18.06 were recorded in Fall 1999 and do not correspond precisely to the current edition of the textbook. However, this book is still the best reference for more information on the topics covered in each lecture.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 14: Orthogonal vectors and subspaces</title>
+      <link>/resources/lecture-14-orthogonal-vectors-and-subspaces/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-14-orthogonal-vectors-and-subspaces/data.json</guid>
+      <description>Vectors are easier to understand when they&amp;rsquo;re described in terms of orthogonal bases. In addition, the Four Fundamental Subspaces are orthogonal to each other in pairs. If A is a rectangular matrix, Ax = b is often unsolvable.
+These video lectures of Professor Gilbert Strang teaching 18.06 were recorded in Fall 1999 and do not correspond precisely to the current edition of the textbook. However, this book is still the best reference for more information on the topics covered in each lecture.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 15: Projections onto subspaces</title>
+      <link>/resources/lecture-15-projections-onto-subspaces/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-15-projections-onto-subspaces/data.json</guid>
+      <description>We often want to find the line (or plane, or hyperplane) that best fits our data. This amounts to finding the best possible approximation to some unsolvable system of linear equations Ax = b. The algebra of finding these best fit solutions begins with the projection of a vector onto a subspace.
+These video lectures of Professor Gilbert Strang teaching 18.06 were recorded in Fall 1999 and do not correspond precisely to the current edition of the textbook.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 16: Projection matrices and least squares</title>
+      <link>/resources/lecture-16-projection-matrices-and-least-squares/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-16-projection-matrices-and-least-squares/data.json</guid>
+      <description>Linear regression is commonly used to fit a line to a collection of data. The method of least squares can be viewed as finding the projection of a vector. Linear algebra provides a powerful and efficient description of linear regression in terms of the matrix A_T_A.
+These video lectures of Professor Gilbert Strang teaching 18.06 were recorded in Fall 1999 and do not correspond precisely to the current edition of the textbook.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 17: Orthogonal matrices and Gram-Schmidt</title>
+      <link>/resources/lecture-17-orthogonal-matrices-and-gram-schmidt/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-17-orthogonal-matrices-and-gram-schmidt/data.json</guid>
+      <description>Many calculations become simpler when performed using orthonormal vectors or orthogonal matrices. In this session, we learn a procedure for converting any basis to an orthonormal one.
+These video lectures of Professor Gilbert Strang teaching 18.06 were recorded in Fall 1999 and do not correspond precisely to the current edition of the textbook. However, this book is still the best reference for more information on the topics covered in each lecture.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 18: Properties of determinants</title>
+      <link>/resources/lecture-18-properties-of-determinants/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-18-properties-of-determinants/data.json</guid>
+      <description>The determinant of a matrix is a single number which encodes a lot of information about the matrix. Three simple properties completely describe the determinant. In this lecture we also list seven more properties like det_AB_ = (det_A_)(det_B_) that can be derived from the first three.
+These video lectures of Professor Gilbert Strang teaching 18.06 were recorded in Fall 1999 and do not correspond precisely to the current edition of the textbook.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 19: Determinant formulas and cofactors</title>
+      <link>/resources/lecture-19-determinant-formulas-and-cofactors/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-19-determinant-formulas-and-cofactors/data.json</guid>
+      <description>One way to compute the determinant is by elimination. In this lecture we derive two related formulas for the determinant using the properties from last lecture.
+These video lectures of Professor Gilbert Strang teaching 18.06 were recorded in Fall 1999 and do not correspond precisely to the current edition of the textbook. However, this book is still the best reference for more information on the topics covered in each lecture.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 2: Elimination with matrices</title>
+      <link>/resources/lecture-2-elimination-with-matrices/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-2-elimination-with-matrices/data.json</guid>
+      <description>This session introduces the method of elimination, an essential tool for working with matrices. The method follows a simple algorithm. To help make sense of material presented later, we describe this algorithm in terms of matrix multiplication.
+These video lectures of Professor Gilbert Strang teaching 18.06 were recorded in Fall 1999 and do not correspond precisely to the current edition of the textbook. However, this book is still the best reference for more information on the topics covered in each lecture.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 20: Cramer&#39;s rule, inverse matrix, and volume</title>
+      <link>/resources/lecture-20-cramers-rule-inverse-matrix-and-volume/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-20-cramers-rule-inverse-matrix-and-volume/data.json</guid>
+      <description>Now we start to use the determinant. Understanding the cofactor formula allows us to show that A_-1 = (1/det_A)_C_T, where C is the matrix of cofactors of A. Combining this formula with the equation x = A_-1_b gives us Cramer&amp;rsquo;s rule for solving Ax = b. Also, the absolute value of the determinant gives the volume of a box.
+These video lectures of Professor Gilbert Strang teaching 18.06 were recorded in Fall 1999 and do not correspond precisely to the current edition of the textbook.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 21: Eigenvalues and eigenvectors</title>
+      <link>/resources/lecture-21-eigenvalues-and-eigenvectors/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-21-eigenvalues-and-eigenvectors/data.json</guid>
+      <description>If the product Ax points in the same direction as the vector x, we say that x is an eigenvector of A. Eigenvalues and eigenvectors describe what happens when a matrix is multiplied by a vector. In this session we learn how to find the eigenvalues and eigenvectors of a matrix.
+These video lectures of Professor Gilbert Strang teaching 18.06 were recorded in Fall 1999 and do not correspond precisely to the current edition of the textbook.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 22: Diagonalization and powers of A</title>
+      <link>/resources/lecture-22-diagonalization-and-powers-of-a/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-22-diagonalization-and-powers-of-a/data.json</guid>
+      <description>We know how to find eigenvalues and eigenvectors. In this lecture we learn to diagonalize any matrix that has n independent eigenvectors and see how diagonalization simplifies calculations. The lecture concludes by using eigenvalues and eigenvectors to solve difference equations.
+These video lectures of Professor Gilbert Strang teaching 18.06 were recorded in Fall 1999 and do not correspond precisely to the current edition of the textbook. However, this book is still the best reference for more information on the topics covered in each lecture.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 23: Differential equations and exp(At)</title>
+      <link>/resources/lecture-23-differential-equations-and-exp-at/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-23-differential-equations-and-exp-at/data.json</guid>
+      <description>In this lecture we apply linear algebra to solve differential equations. We also talk about matrix exponential e_At_. We can copy Taylor&amp;rsquo;s series for e_At_ to define e_At_ for a matrix A. If A is diagonalizable, we can use Λ to find the exact value of e_At_.
+These video lectures of Professor Gilbert Strang teaching 18.06 were recorded in Fall 1999 and do not correspond precisely to the current edition of the textbook.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 24: Markov matrices; fourier series</title>
+      <link>/resources/lecture-24-markov-matrices-fourier-series/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-24-markov-matrices-fourier-series/data.json</guid>
+      <description>Like differential equations, Markov matrices describe changes over time. Once again, the eigenvalues and eigenvectors describe the long term behavior of the system. In this session we also learn about Fourier series, which describe periodic functions as points in an infinite dimensional vector space.
+These video lectures of Professor Gilbert Strang teaching 18.06 were recorded in Fall 1999 and do not correspond precisely to the current edition of the textbook. However, this book is still the best reference for more information on the topics covered in each lecture.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 24b: Quiz 2 review</title>
+      <link>/resources/lecture-24b-quiz-2-review/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-24b-quiz-2-review/data.json</guid>
+      <description>Unit II covered a lot of material, the heart of this course. This session reviews the material covered by Quiz 2. Sample questions are given in this video, too.
+These video lectures of Professor Gilbert Strang teaching 18.06 were recorded in Fall 1999 and do not correspond precisely to the current edition of the textbook. However, this book is still the best reference for more information on the topics covered in each lecture.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 25: Symmetric matrices and positive definiteness</title>
+      <link>/resources/lecture-25-symmetric-matrices-and-positive-definiteness/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-25-symmetric-matrices-and-positive-definiteness/data.json</guid>
+      <description>Special matrices have special eigenvalues and eigenvectors. Symmetric and positive definite matrices have extremely nice properties, and studying these matrices brings together everything we&amp;rsquo;ve learned about pivots, determinants and eigenvalues. In this session we also practice doing linear algebra with complex numbers and learn how the pivots give information about the eigenvalues of a symmetric matrix.
+These video lectures of Professor Gilbert Strang teaching 18.06 were recorded in Fall 1999 and do not correspond precisely to the current edition of the textbook.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 26: Complex matrices; fast fourier transform</title>
+      <link>/resources/lecture-26-complex-matrices-fast-fourier-transform/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-26-complex-matrices-fast-fourier-transform/data.json</guid>
+      <description>The Fourier matrices have complex valued entries and many nice properties. This session covers the basics of working with complex matrices and vectors, and concludes with a description of the fast Fourier transform.
+These video lectures of Professor Gilbert Strang teaching 18.06 were recorded in Fall 1999 and do not correspond precisely to the current edition of the textbook. However, this book is still the best reference for more information on the topics covered in each lecture.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 27: Positive definite matrices and minima</title>
+      <link>/resources/lecture-27-positive-definite-matrices-and-minima/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-27-positive-definite-matrices-and-minima/data.json</guid>
+      <description>In calculus, the second derivative decides whether a critical point of y(x) is a minimum. For functions of multiple variables, the test is whether a matrix of second derivatives is positive definite. In this session we learn several ways of testing for positive definiteness and also how the shape of the graph of ƒ(x) = x_T_Ax is determined by the entries of A.
+These video lectures of Professor Gilbert Strang teaching 18.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 28: Similar matrices and Jordan form</title>
+      <link>/resources/lecture-28-similar-matrices-and-jordan-form/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-28-similar-matrices-and-jordan-form/data.json</guid>
+      <description>After a final discussion of positive definite matrices, we learn about &amp;ldquo;similar&amp;rdquo; matrices: B = M_-1_AM for some invertible matrix M. Square matrices can be grouped by similarity, and each group has a &amp;ldquo;nicest&amp;rdquo; representative in Jordan normal form. This form tells at a glance the eigenvalues and the number of eigenvectors.
+These video lectures of Professor Gilbert Strang teaching 18.06 were recorded in Fall 1999 and do not correspond precisely to the current edition of the textbook.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 29: Singular value decomposition</title>
+      <link>/resources/lecture-29-singular-value-decomposition/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-29-singular-value-decomposition/data.json</guid>
+      <description>The singular value decomposition of a matrix is usually referred to as the SVD. This is the final and best factorization of a matrix. The factors are orthogonal matrix, diagonal matrix, orthogonal matrix. Any matrix whatsoever has this singular value decomposition. One thing we bring together in this lecture is the very good family of matrices that we just studied: symmetric, positive, definite.
+These video lectures of Professor Gilbert Strang teaching 18.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 3: Multiplication and inverse matrices</title>
+      <link>/resources/lecture-3-multiplication-and-inverse-matrices/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-3-multiplication-and-inverse-matrices/data.json</guid>
+      <description>This lecture looks at matrix multiplication from five different points of view. We then learn how to find the inverse of a matrix using elimination, and why the Gauss-Jordan method works.
+These video lectures of Professor Gilbert Strang teaching 18.06 were recorded in Fall 1999 and do not correspond precisely to the current edition of the textbook. However, this book is still the best reference for more information on the topics covered in each lecture.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 30: Linear transformations and their matrices</title>
+      <link>/resources/lecture-30-linear-transformations-and-their-matrices/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-30-linear-transformations-and-their-matrices/data.json</guid>
+      <description>When we multiply a matrix by an input vector we get an output vector, often in a new space. We can ask what this &amp;ldquo;linear transformation&amp;rdquo; does to all the vectors in a space. In fact, matrices were originally invented for the study of linear transformations.
+These video lectures of Professor Gilbert Strang teaching 18.06 were recorded in Fall 1999 and do not correspond precisely to the current edition of the textbook.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 31: Change of basis; image compression</title>
+      <link>/resources/lecture-31-change-of-basis-image-compression/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-31-change-of-basis-image-compression/data.json</guid>
+      <description>Video cameras record data in a poor format for broadcasting video. To transmit video efficiently, linear algebra is used to change the basis. But which basis is best for video compression is an important question that has not been fully answered!
+These video lectures of Professor Gilbert Strang teaching 18.06 were recorded in Fall 1999 and do not correspond precisely to the current edition of the textbook. However, this book is still the best reference for more information on the topics covered in each lecture.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 32: Quiz 3 review</title>
+      <link>/resources/lecture-32-quiz-3-review/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-32-quiz-3-review/data.json</guid>
+      <description>Quiz 3 covers the understanding of matrices through their eigenvalues. Elimination is history now, because it does NOT preserve eigenvalues. Notice the special types of matrices (like positive definite) and their factorizations.
+These video lectures of Professor Gilbert Strang teaching 18.06 were recorded in Fall 1999 and do not correspond precisely to the current edition of the textbook. However, this book is still the best reference for more information on the topics covered in each lecture.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 33: Left and right inverses; pseudoinverse</title>
+      <link>/resources/lecture-33-left-and-right-inverses-pseudoinverse/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-33-left-and-right-inverses-pseudoinverse/data.json</guid>
+      <description>We&amp;rsquo;d like to be able to &amp;ldquo;invert A&amp;rdquo; to solve Ax = b, but A may have only a left inverse or right inverse (or no inverse). This discussion of how and when matrices have inverses improves our understanding of the four fundamental subspaces and of many other key topics in the course.
+These video lectures of Professor Gilbert Strang teaching 18.06 were recorded in Fall 1999 and do not correspond precisely to the current edition of the textbook.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 34: Final course review</title>
+      <link>/resources/lecture-34-final-course-review/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-34-final-course-review/data.json</guid>
+      <description>Review entire course.
+These video lectures of Professor Gilbert Strang teaching 18.06 were recorded in Fall 1999 and do not correspond precisely to the current edition of the textbook. However, this book is still the best reference for more information on the topics covered in each lecture.
+Strang, Gilbert. Introduction to Linear Algebra. 5th ed. Wellesley-Cambridge Press, 2016. ISBN: 9780980232776.
+Instructor/speaker: Prof. Gilbert Strang</description>
+    </item>
+    
+    <item>
+      <title>Lecture 4: Factorization into A = LU</title>
+      <link>/resources/lecture-4-factorization-into-a-lu/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-4-factorization-into-a-lu/data.json</guid>
+      <description>This session explains inverses, transposes and permutation matrices. We also learn how elimination leads to a useful factorization A = LU and how hard a computer will work to invert a very large matrix.
+These video lectures of Professor Gilbert Strang teaching 18.06 were recorded in Fall 1999 and do not correspond precisely to the current edition of the textbook. However, this book is still the best reference for more information on the topics covered in each lecture.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 5: Transposes, permutations, spaces R^n</title>
+      <link>/resources/lecture-5-transposes-permutations-spaces-r-n/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-5-transposes-permutations-spaces-r-n/data.json</guid>
+      <description>To account for row exchanges in Gaussian elimination, we include a permutation matrix P in the factorization PA = LU. Then we learn about vector spaces and subspaces; these are central to linear algebra.
+These video lectures of Professor Gilbert Strang teaching 18.06 were recorded in Fall 1999 and do not correspond precisely to the current edition of the textbook. However, this book is still the best reference for more information on the topics covered in each lecture.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 6: Column space and nullspace</title>
+      <link>/resources/lecture-6-column-space-and-nullspace/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-6-column-space-and-nullspace/data.json</guid>
+      <description>This lecture discusses column space and nullspace. The column space of a matrix A tells us when the equation Ax = b will have a solution x. The nullspace of A tells us which values of x solve the equation Ax = 0.
+These video lectures of Professor Gilbert Strang teaching 18.06 were recorded in Fall 1999 and do not correspond precisely to the current edition of the textbook. However, this book is still the best reference for more information on the topics covered in each lecture.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 7: Solving Ax = 0: pivot variables, special solutions</title>
+      <link>/resources/lecture-7-solving-ax-0-pivot-variables-special-solutions/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-7-solving-ax-0-pivot-variables-special-solutions/data.json</guid>
+      <description>We apply the method of elimination to all matrices, invertible or not. Counting the pivots gives us the rank of the matrix. Further simplifying the matrix puts it in reduced row echelon form R and improves our description of the nullspace.
+These video lectures of Professor Gilbert Strang teaching 18.06 were recorded in Fall 1999 and do not correspond precisely to the current edition of the textbook. However, this book is still the best reference for more information on the topics covered in each lecture.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 8: Solving Ax = b: row reduced form R</title>
+      <link>/resources/lecture-8-solving-ax-b-row-reduced-form-r/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-8-solving-ax-b-row-reduced-form-r/data.json</guid>
+      <description>When does Ax = b have solutions x, and how can we describe those solutions? We describe all solutions to Ax = b based on the free variables and special solutions encoded in the reduced form R.
+These video lectures of Professor Gilbert Strang teaching 18.06 were recorded in Fall 1999 and do not correspond precisely to the current edition of the textbook. However, this book is still the best reference for more information on the topics covered in each lecture.</description>
+    </item>
+    
+    <item>
+      <title>Lecture 9: Independence, basis, and dimension</title>
+      <link>/resources/lecture-9-independence-basis-and-dimension/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/lecture-9-independence-basis-and-dimension/data.json</guid>
+      <description>What does it mean for vectors to be independent? How does the idea of independence help us describe subspaces like the nullspace? A basis is a set of vectors, as few as possible, whose combinations produce all vectors in the space. The number of basis vectors for a space equals the dimension of that space.
+These video lectures of Professor Gilbert Strang teaching 18.06 were recorded in Fall 1999 and do not correspond precisely to the current edition of the textbook.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_06S10_L01.pdf</title>
+      <link>/resources/mit18_06s10_l01/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_06s10_l01/data.json</guid>
+      <description>This resource is a transcript for Lecture 1.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_06S10_L02.pdf</title>
+      <link>/resources/mit18_06s10_l02/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_06s10_l02/data.json</guid>
+      <description>This resource is a transcript for Lecture 2.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_06S10_L03.pdf</title>
+      <link>/resources/mit18_06s10_l03/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_06s10_l03/data.json</guid>
+      <description>This resource is a transcript for Lecture 3.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_06S10_L04.pdf</title>
+      <link>/resources/mit18_06s10_l04/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_06s10_l04/data.json</guid>
+      <description>This resource is a transcript for Lecture 4.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_06S10_L05.pdf</title>
+      <link>/resources/mit18_06s10_l05/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_06s10_l05/data.json</guid>
+      <description>This resource is a transcript for Lecture 5.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_06S10_L06.pdf</title>
+      <link>/resources/mit18_06s10_l06/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_06s10_l06/data.json</guid>
+      <description>This resource is a transcript for Lecture 6.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_06S10_L07.pdf</title>
+      <link>/resources/mit18_06s10_l07/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_06s10_l07/data.json</guid>
+      <description>This resource is a transcript for Lecture 7.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_06S10_L08.pdf</title>
+      <link>/resources/mit18_06s10_l08/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_06s10_l08/data.json</guid>
+      <description>This resource is a transcript for Lecture 8.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_06S10_L09.pdf</title>
+      <link>/resources/mit18_06s10_l09/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_06s10_l09/data.json</guid>
+      <description>This resource is a transcript for Lecture 9.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_06S10_L10.pdf</title>
+      <link>/resources/mit18_06s10_l10/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_06s10_l10/data.json</guid>
+      <description>This resource is a transcript for Lecture 10.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_06S10_L11.pdf</title>
+      <link>/resources/mit18_06s10_l11/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_06s10_l11/data.json</guid>
+      <description>This resource is a transcript for Lecture 11.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_06S10_L12.pdf</title>
+      <link>/resources/mit18_06s10_l12/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_06s10_l12/data.json</guid>
+      <description>This resource is a transcript for Lecture 12.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_06S10_L13.pdf</title>
+      <link>/resources/mit18_06s10_l13/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_06s10_l13/data.json</guid>
+      <description>This resource is a transcript for Lecture 13.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_06S10_L14.pdf</title>
+      <link>/resources/mit18_06s10_l14/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_06s10_l14/data.json</guid>
+      <description>This resource is a transcript for Lecture 14.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_06S10_L15.pdf</title>
+      <link>/resources/mit18_06s10_l15/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_06s10_l15/data.json</guid>
+      <description>This resource is a transcript for Lecture 15.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_06S10_L16.pdf</title>
+      <link>/resources/mit18_06s10_l16/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_06s10_l16/data.json</guid>
+      <description>This resource is a transcript for Lecture 16.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_06S10_L17.pdf</title>
+      <link>/resources/mit18_06s10_l17/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_06s10_l17/data.json</guid>
+      <description>This resource is a transcript for Lecture 17.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_06S10_L18.pdf</title>
+      <link>/resources/mit18_06s10_l18/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_06s10_l18/data.json</guid>
+      <description>This resource is a transcript for Lecture 18.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_06S10_L19.pdf</title>
+      <link>/resources/mit18_06s10_l19/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_06s10_l19/data.json</guid>
+      <description>This resource is a transcript for Lecture 19.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_06S10_L20.pdf</title>
+      <link>/resources/mit18_06s10_l20/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_06s10_l20/data.json</guid>
+      <description>This resource is a transcript for Lecture 20.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_06S10_L21.pdf</title>
+      <link>/resources/mit18_06s10_l21/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_06s10_l21/data.json</guid>
+      <description>This resource is a transcript for Lecture 21.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_06S10_L22.pdf</title>
+      <link>/resources/mit18_06s10_l22/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_06s10_l22/data.json</guid>
+      <description>This resource is a transcript for Lecture 22.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_06S10_L23.pdf</title>
+      <link>/resources/mit18_06s10_l23/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_06s10_l23/data.json</guid>
+      <description>This resource is a transcript for Lecture 23.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_06S10_L24.pdf</title>
+      <link>/resources/mit18_06s10_l24/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_06s10_l24/data.json</guid>
+      <description>This resource is a transcript for Lecture 24.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_06S10_L24b.pdf</title>
+      <link>/resources/mit18_06s10_l24b/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_06s10_l24b/data.json</guid>
+      <description>This resource is a transcript for Lecture 24b.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_06S10_L25.pdf</title>
+      <link>/resources/mit18_06s10_l25/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_06s10_l25/data.json</guid>
+      <description>This resource is a transcript for Lecture 25.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_06S10_L26.pdf</title>
+      <link>/resources/mit18_06s10_l26/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_06s10_l26/data.json</guid>
+      <description>This resource is a transcript for Lecture 26.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_06S10_L27.pdf</title>
+      <link>/resources/mit18_06s10_l27/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_06s10_l27/data.json</guid>
+      <description>This resource is a transcript for Lecture 27.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_06S10_L28.pdf</title>
+      <link>/resources/mit18_06s10_l28/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_06s10_l28/data.json</guid>
+      <description>This resource is a transcript for Lecture 28.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_06S10_L29.pdf</title>
+      <link>/resources/mit18_06s10_l29/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_06s10_l29/data.json</guid>
+      <description>This resource is a transcript for Lecture 29.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_06S10_L30.pdf</title>
+      <link>/resources/mit18_06s10_l30/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_06s10_l30/data.json</guid>
+      <description>This resource is a transcript for Lecture 30.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_06S10_L31.pdf</title>
+      <link>/resources/mit18_06s10_l31/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_06s10_l31/data.json</guid>
+      <description>This resource is a transcript for Lecture 31.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_06S10_L32.pdf</title>
+      <link>/resources/mit18_06s10_l32/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_06s10_l32/data.json</guid>
+      <description>This resource is a transcript for Lecture 32.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_06S10_L33.pdf</title>
+      <link>/resources/mit18_06s10_l33/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_06s10_l33/data.json</guid>
+      <description>This resource is a transcript for Lecture 33.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_06S10_L34.pdf</title>
+      <link>/resources/mit18_06s10_l34/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_06s10_l34/data.json</guid>
+      <description>This resource is a transcript for Lecture 34.</description>
+    </item>
+    
+    <item>
+      <title>Video Lectures</title>
+      <link>/video_galleries/video-lectures/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/video_galleries/video-lectures/data.json</guid>
+      <description>These video lectures of Professor Gilbert Strang teaching 18.06 were recorded live in the Fall of 1999. Support for the video production was provided by the Lord Foundation of Massachusetts under a grant to the MIT Center for Advanced Educational Services.
+Lecture 1: The geometry of linear equations Lecture 2: Elimination with matrices Lecture 3: Multiplication and inverse matrices Lecture 4: Factorization into A = LU Lecture 5: Transposes, permutations, spaces R^n Lecture 6: Column space and nullspace Lecture 7: Solving Ax = 0: pivot variables, special solutions Lecture 8: Solving Ax = b: row reduced form R Lecture 9: Independence, basis, and dimension Lecture 10: The four fundamental subspaces Lecture 11: Matrix spaces; rank 1; small world graphs Lecture 12: Graphs, networks, incidence matrices Lecture 13: Quiz 1 review Lecture 14: Orthogonal vectors and subspaces Lecture 15: Projections onto subspaces Lecture 16: Projection matrices and least squares Lecture 17: Orthogonal matrices and Gram-Schmidt Lecture 18: Properties of determinants Lecture 19: Determinant formulas and cofactors Lecture 20: Cramer&amp;#39;s rule, inverse matrix, and volume Lecture 21: Eigenvalues and eigenvectors Lecture 22: Diagonalization and powers of A Lecture 23: Differential equations and exp(At) Lecture 24: Markov matrices; fourier series Lecture 24b: Quiz 2 review Lecture 25: Symmetric matrices and positive definiteness Lecture 26: Complex matrices; fast fourier transform Lecture 27: Positive definite matrices and minima Lecture 28: Similar matrices and Jordan form Lecture 29: Singular value decomposition Lecture 30: Linear transformations and their matrices Lecture 31: Change of basis; image compression Lecture 32: Quiz 3 review Lecture 33: Left and right inverses; pseudoinverse Lecture 34: Final course review </description>
+    </item>
+    
+  </channel>
+</rss>

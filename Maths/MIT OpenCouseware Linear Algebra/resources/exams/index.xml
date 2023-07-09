@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exams on MIT OpenCourseWare</title>
+    <link>/resources/exams/</link>
+    <description>Recent content in Exams on MIT OpenCourseWare</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/resources/exams/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exams</title>
+      <link>/pages/exams/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/exams/data.json</guid>
+      <description>There will be three one-hour exams at class times and a final exam.
+EXAMS SOLUTIONS Exam 1 (PDF) (PDF) Exam 2 (PDF) (PDF) Exam 3 (PDF) (PDF) Final exam (PDF) (PDF) Exams and quizzes from previous years can be found in the study materials section.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_06S10_exam1_s10_sol.pdf</title>
+      <link>/resources/mit18_06s10_exam1_s10_sol/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_06s10_exam1_s10_sol/data.json</guid>
+      <description>This resource contains solutions related to elimination changes.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_06S10_exam2_s10_soln.pdf</title>
+      <link>/resources/mit18_06s10_exam2_s10_soln/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_06s10_exam2_s10_soln/data.json</guid>
+      <description>This resource contains solutions related to eigenvectors and their corresponding eigenvalues.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_06S10_exam2_s10.pdf</title>
+      <link>/resources/mit18_06s10_exam2_s10/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_06s10_exam2_s10/data.json</guid>
+      <description>This resource contains information related to eigenvectors and their corresponding eigenvalues.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_06S10_exam3_s10_soln.pdf</title>
+      <link>/resources/mit18_06s10_exam3_s10_soln/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_06s10_exam3_s10_soln/data.json</guid>
+      <description>This resource contains solutions related to symmetric matrix.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_06S10_exam3_s10.pdf</title>
+      <link>/resources/mit18_06s10_exam3_s10/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_06s10_exam3_s10/data.json</guid>
+      <description>This resource contains problems related to symmetric matrix.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_06S10_Final_Answers.pdf</title>
+      <link>/resources/mit18_06s10_final_answers/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_06s10_final_answers/data.json</guid>
+      <description>This resource contains information related to answers for final exam.</description>
+    </item>
+    
+    <item>
+      <title>MIT18_06S10_Final_Exam.pdf</title>
+      <link>/resources/mit18_06s10_final_exam/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_06s10_final_exam/data.json</guid>
+      <description>This resource contains information related to problems for final exam.</description>
+    </item>
+    
+    <item>
+      <title>Quiz 1</title>
+      <link>/resources/mit18_06s10_exam1_s10/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/mit18_06s10_exam1_s10/data.json</guid>
+      <description>Quiz on linear algebra.</description>
+    </item>
+    
+  </channel>
+</rss>
