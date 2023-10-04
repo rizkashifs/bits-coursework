@@ -1,0 +1,7 @@
+Here are a few pointers for the ending comprehensive examinations. 
+
+1. The paper would have 10 to 15 marks from the midsem portions and rest would be from post midsem. 
+
+2. Questions would be concept based and not computationally intensive. 
+
+3. Go through the concepts on gradient descent, pca, non-linear optimisation including primal and dual, and svm for the post midsem portions. 

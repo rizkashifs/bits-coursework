@@ -1,0 +1,7 @@
+1. If you have a machine in which you can do 1000 additions, 1008 multiplications and 512 divisions, compute the maximum size of the system which could be solved using Gauss elimination method. 
+2. If A is a m x n matrix with m > n and having linearly independent columns, can you generate an orthogonal Matrix out of this? Justify. 
+3. P and Q are two symmetric matrices of size n x n ( n > 2) that have 2 eigenvalues exactly the same. Can 0 be an eigenvalue of P - Q? Justify. 
+4. Construct, if possible, an orthogonal matrix of size n^2 + n + 1 for a given n. Give justifications. 
+5. Consider the maximization problem Max f(x, y) such that  x^2 + y^2 - 5 <= 0; x^3 + 3x^2 y - 10 <= 0: 2x + 3y = 0. Find out if strong duality can hold. State assumptions, if any, are required. 
+6. Show that S and S^ have the same eigenvalues. If u is an eigenvector of S^, can you find the eigenvector of S? If the vector unique? 
+7. Take the function to be minimised in svm to be ||w|| and derive the conditions. 
