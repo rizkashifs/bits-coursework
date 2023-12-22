@@ -1,0 +1,5 @@
+
+Ch3. - Data Engineering Fundamentals from Designing Machine Learning Systems by Chip Huyen
+Ch3. - Data Engineering Fundamentals from Designing Machine Learning Systems by Chip Huyen
+
+Ch4. - Encoding and Evolution from Designing Data-Intensive Applications by Martin Kleppmann
