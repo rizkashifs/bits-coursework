@@ -1,0 +1,19 @@
+Structure of NLP Midsem paper
+
+Q1 – 7 Marks
+Module 1: Introduction (Applications) – 3 Marks
+Module 2: N-gram Language Models (Problem) – 4 Marks
+
+Q2 – 7 Marks
+Module 3: Neural Language Models (Conceptual/Problem) – 3/4 Marks
+Module 4: Vector semantics (Problem) – 3/4 Marks
+ 
+Q3 – 6 Marks
+Module 4: Word embedding (Problem/conceptual)– 6 Marks
+
+Q4 – 5 Marks
+Module 5: POS Tagging (Problem/conceptual) – 5 Marks
+
+Q5 – 5 Marks
+Module 6: Hidden Markov Models (Problem/conceptual) – 5 Marks
+-viterbi, forward
